@@ -1,0 +1,3 @@
+Record=TopLevelDocument|FileName=toplevel.SchDoc
+Record=SheetSymbol|SourceDocument=toplevel.SchDoc|Designator=Digital|SchDesignator=Digital|FileName=digital.SchDoc|SymbolType=Normal|RawFileName=digital.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=toplevel.SchDoc|Designator=Sensors|SchDesignator=Sensors|FileName=sensors.SchDoc|SymbolType=Normal|RawFileName=sensors.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
